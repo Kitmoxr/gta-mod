@@ -1,0 +1,8 @@
+-hdr
+-lodScale 1.0f
+-pedLodBias 1.6f
+-vehicleLodBias 1.5f
+-cityDensity 1.0
+-VehicleVarietyMultiplier 10.0
+-PedVarietyMultiplier 10.0
+-uilanguage american
